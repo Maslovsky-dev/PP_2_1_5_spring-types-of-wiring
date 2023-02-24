@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Ocean1 {
-
+    //поле и геттер
     @Autowired
     private Island2 island;
 

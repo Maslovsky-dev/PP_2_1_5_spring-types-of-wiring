@@ -12,7 +12,7 @@ public class KoscheiTheDeathless {
     public String getRulesByDeth() {
         return "На свете есть океан , " + ocean.toString();
     }
-
+    //сеттер
     @Autowired
     public void setOcean(Ocean1 ocean) {
         this.ocean = ocean;
